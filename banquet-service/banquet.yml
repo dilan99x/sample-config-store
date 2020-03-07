@@ -1,0 +1,4 @@
+service:
+  url: http://123.45.6.78:9091/wed-nest/banquet/api/v1
+  description: Banquet application
+  version: 1.0.0
